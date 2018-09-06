@@ -2,7 +2,7 @@
   "name": "react-native-ios-comps",
   "version": "0.52.0",
   "main": "src/index.js",
-  "repository": "https://github.com/changkai244/react-native-comps.git",
+  "repository": "https://github.com/changkai244/react-native-ios-comps.git",
   "author": "Kchang <changkai244@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
